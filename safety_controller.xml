@@ -1,0 +1,10 @@
+<!-- turtlebot3_safety publisher -->
+<library path="lib/turtlebot3_safety">
+  <class name="turtlebot3_safety/turtlebot3_safety" type="turtlebot3_safety" 
+    base_class_type="nodelet::Nodelet">
+    <description>
+      Turtlebot 3 safety controller publisher.
+    </description>
+  </class>
+</library>
+
